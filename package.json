@@ -1,0 +1,20 @@
+{
+  "name": "@spring4js/container-node",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/spring4js-container-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/spring4js-container-node/issues"
+  },
+  "homepage": "https://github.com/yourusername/spring4js-container-node#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
