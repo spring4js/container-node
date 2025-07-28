@@ -7,6 +7,7 @@ import {
     setServicePreStartDependencyByNames, getServiceInfo
 } from './meta-utils'
 import {Container} from "./container";
+
 /**
  * 服务声明注解
  * @param name
