@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "./lib/index.js",
   "scripts": {
-    "build": "rimraf ./lib && tsc"
+    "build": "rimraf ./lib && tsc",
+    "publish": "npm publish --registry https://registry.npmjs.org/"
   },
   "license": "MIT",
   "repository": {
