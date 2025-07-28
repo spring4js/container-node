@@ -8,12 +8,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/spring4js-container-node.git"
+    "url": "git+https://github.com/spring4js/container-node.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/spring4js-container-node/issues"
+    "url": "https://github.com/spring4js/container-node/issues"
   },
-  "homepage": "https://github.com/yourusername/spring4js-container-node#readme",
+  "homepage": "https://github.com/spring4js/container-node#readme.md",
   "publishConfig": {
     "access": "public"
   }
