@@ -1,10 +1,10 @@
 {
   "name": "@spring4js/container-node",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "./lib/index.js",
   "scripts": {
     "build": "rimraf ./lib && tsc",
-    "publish": "npm publish --registry https://registry.npmjs.org/"
+    "publish-to-center": "npm publish --registry https://registry.npmjs.org/"
   },
   "license": "MIT",
   "repository": {
